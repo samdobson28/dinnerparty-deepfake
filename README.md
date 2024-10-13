@@ -8,7 +8,7 @@ pip install torch torchvision torchaudio audioldm
 Then:
 Run the script with the following command:
 ```bash
-python audioLDM2_script.py /path/to/wavfiles /path/to/output_dir
+python audioLDM_script.py /path/to/wavfiles /path/to/output_dir
 ```
 
 This will:
