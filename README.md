@@ -1,5 +1,11 @@
 # dinnerparty-deepfake
 Open a terminal and navigate to the directory containing the script.
+
+First:
+```bash
+pip install librosa numpy torch audioldm2 soundfile
+```
+Then:
 Run the script with the following command:
 ```bash
 python audioLDM2_script.py /path/to/wavfiles /path/to/output_dir
