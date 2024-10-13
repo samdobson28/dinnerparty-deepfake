@@ -3,7 +3,7 @@ Open a terminal and navigate to the directory containing the script.
 
 First:
 ```bash
-pip install librosa numpy torch audioldm2 soundfile
+pip install torch torchvision torchaudio audioldm
 ```
 Then:
 Run the script with the following command:
